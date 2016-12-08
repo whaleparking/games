@@ -1,0 +1,30 @@
+[
+ {
+   "Title": "Animal Crossing: New Leaf",
+   "CoverImg": "animalcrossing.jpg",
+   "Installed": "",
+   "Status": "stalled",
+   "Digital": ""
+ },
+  {
+   "Title": "Pokemon Y",
+   "CoverImg": "pokemony.jpg",
+   "Installed": "",
+   "Status": "stalled",
+   "Digital": ""
+ },
+ {
+   "Title": "Super Mario Maker",
+   "CoverImg": "mariomaker.jpg",
+   "Installed": "",
+   "Status": "current",
+   "Digital": ""
+ },
+ {
+   "Title": "Zelda: A Link Between Worlds",
+   "CoverImg": "zeldalinkbetween.jpg",
+   "Installed": "",
+   "Status": "",
+   "Digital": ""
+ }
+]
