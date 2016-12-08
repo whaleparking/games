@@ -1,0 +1,194 @@
+[
+ {
+   "Title": "Bastion",
+   "CoverImg": "bastion.jpg",
+   "Installed": "",
+   "Status": "finished"
+ },
+ {
+   "Title": "Braid",
+   "CoverImg": "braid.jpg",
+   "Installed": "",
+   "Status": "finished"
+ },
+ {
+   "Title": "Counter-Strike: GO",
+   "CoverImg": "counterstrike.jpg",
+   "Installed": "yes",
+   "Status": "current"
+ },
+ {
+   "Title": "Day of Defeat",
+   "CoverImg": "dayofdefeat.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+  {
+   "Title": "Dustforce",
+   "CoverImg": "dustforce.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "FEZ",
+   "CoverImg": "fez.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "Firewatch",
+   "CoverImg": "firewatch.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "Flame in the Flood",
+   "CoverImg": "flameintheflood2.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "FTL",
+   "CoverImg": "ftl.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "Guacamelee",
+   "CoverImg": "guacamelee.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "Half Life 2",
+   "CoverImg": "halflife2.jpg",
+   "Installed": "",
+   "Status": "stalled"
+ },
+ {
+   "Title": "Hyper Light Drifter",
+   "CoverImg": "hyperlight.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "Ikaruga",
+   "CoverImg": "ikaruga.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "Left4Dead2",
+   "CoverImg": "left4dead2.jpg",
+   "Installed": "yes",
+   "Status": "current"
+ },
+ {
+   "Title": "Limbo",
+   "CoverImg": "limbo.jpg",
+   "Installed": "",
+   "Status": "finished"
+ },
+ {
+   "Title": "Lone Survivor",
+   "CoverImg": "lonesurvivor.jpg",
+   "Installed": "",
+   "Status": "dropped"
+ },
+ {
+   "Title": "Mark of the Ninja",
+   "CoverImg": "markoftheninja.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "Ori and the Blind Forest",
+   "CoverImg": "ori.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "Portal 2",
+   "CoverImg": "portal2.jpg",
+   "Installed": "",
+   "Status": "stalled"
+ },
+ {
+   "Title": "Psychonauts",
+   "CoverImg": "psychonauts.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "Samorost 3",
+   "CoverImg": "samorost3.jpg",
+   "Installed": "yes",
+   "Status": "current"
+ },
+ {
+   "Title": "Shovel Knight",
+   "CoverImg": "shovelknight.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "Spelunky",
+   "CoverImg": "spelunky.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "Stacking",
+   "CoverImg": "stacking.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "Stardew Valley",
+   "CoverImg": "stardewvalley.jpg",
+   "Installed": "",
+   "Status": "stalled"
+ },
+ {
+   "Title": "Star Wars: KOTOR",
+   "CoverImg": "starwarskotor.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "Super Meat Boy",
+   "CoverImg": "supermeatboy.jpg",
+   "Installed": "",
+   "Status": "stalled"
+ },
+ {
+   "Title": "Talos Principle",
+   "CoverImg": "talos.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "Thomas Was Alone",
+   "CoverImg": "thomaswasalone.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "Transistor",
+   "CoverImg": "transistor.jpg",
+   "Installed": "",
+   "Status": "dropped"
+ },
+ {
+   "Title": "Trine 2",
+   "CoverImg": "trine2.jpg",
+   "Installed": "",
+   "Status": ""
+ },
+ {
+   "Title": "The Witness",
+   "CoverImg": "witness.jpg",
+   "Installed": "",
+   "Status": ""
+ }
+]

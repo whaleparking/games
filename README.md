@@ -1,1 +1,2 @@
-# games
+Quick python server:
+python -m SimpleHTTPServer
