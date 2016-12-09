@@ -56,12 +56,12 @@ $coverheight: 279px;
 
 }
 
-.tds {
+.tds, .snes {
   .game {
     .coverimg {
       height: $coverwidth;
       img {
-        height: $coverwidth;
+        max-height: $coverwidth;
       }
     }
   }

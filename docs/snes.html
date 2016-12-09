@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="robots" content="NOODP"/>
+
+  <!-- JavaScript -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+  <script src="js/load.js"></script>
+
+  <!-- CSS -->
+  <link rel=stylesheet href="css/style.css">
+
+  <title>Games - SNES</title>
+</head>
+<body class="snes">
+
+<div class="header">
+  <div class="navigation container">
+    <div class="logo">Games</div>
+    <div class="nav">
+      <a href="pc.html">PC</a>
+      <a href="3ds.html">3DS</a>
+      <a href="xbox.html">XBOX</a>
+      <a href="snes.html" class="active">SNES</a>
+    </div>
+    <div class="menu"></div>
+  </div>
+</div>
+
+<section><div class="nudge"> </div></section>
+
+<section><div class="main container"></div></section>
+
+</body>
+
+
+
+<script type="text/javascript">
+var dir = "data/snes/";
+$.getJSON(dir+'data.json', function(data) {
+  load(data, dir);
+});
+</script>
+
+
+</html>
