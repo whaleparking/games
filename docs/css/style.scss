@@ -56,12 +56,25 @@ $coverheight: 279px;
 
 }
 
-.tds, .snes {
+.tds {
   .game {
+    height: 1.5 * $coverwidth;
     .coverimg {
       height: $coverwidth;
       img {
         max-height: $coverwidth;
+      }
+    }
+  }
+}
+
+.snes {
+  .game {
+    height: 1.2 * $coverwidth;
+    .coverimg {
+      height: 0.8 * $coverwidth;
+      img {
+        max-height: 0.8 * $coverwidth;
       }
     }
   }
